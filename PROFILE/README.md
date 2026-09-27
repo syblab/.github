@@ -1,6 +1,5 @@
 # 🔬 Welcome to SybLab!
 
----
 
 ### 🔑 Request Membership Access
 
